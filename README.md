@@ -22,22 +22,6 @@
 - 📌 **Top Sites as Buttons**  
   A neatly styled button-based quick-access layout for your top websites.
 
-## 📷 Screenshots
-
-> 📍 Add your screenshots below by replacing the text with image markdown  
-> Example: `![Greeting](images/greeting.png)`
-
-- Personalized Greeting  
-  *(Insert image here)*
-
-- Motivational Quote Overlay  
-  *(Insert image here)*
-
-- Backgrounds (mountains, moonlight, cricket, etc.)  
-  *(Insert image here)*
-
-- Roaming Pets Example  
-  *(Insert image here)*
 
 ## 🛠️ How to Use
 
