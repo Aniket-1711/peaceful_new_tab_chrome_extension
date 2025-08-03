@@ -51,9 +51,6 @@ Roaming emoji pets appear even across websites.
 (Settings toggle UI coming soon!)
 
 📁 Folder Structure
-php
-Copy
-Edit
 peaceful-new-tab-extension/
 │
 ├── manifest.json          # Extension manifest
@@ -62,6 +59,7 @@ peaceful-new-tab-extension/
 ├── icons/                 # Icons for extension
 ├── topSites.json          # JSON config for top sites
 └── ...
+
 🚀 Technologies Used
 HTML, CSS, JavaScript
 
